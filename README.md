@@ -1,12 +1,11 @@
-<h1 align="center">Hi, I'm Divyashree 👋</h1>
-<h3 align="center">Software Developer | Backend Enthusiast | Curious Builder</h3>
+<h1 align="center">Hi, I'm Divyashree Shetti 👋</h1>
+<h3 align="center">Software Developer | Backend Enthusiast | Curious Learner</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm **Divyashree Shetti**.
-- 🎓 Computer Science graduate currently working as a **System Engineer Intern**
+- 🎓 Computer Science student currently working as a **System Engineer Intern**
 - 🌱 Currently learning **Spring Boot, REST API development, and database modeling**
 - 💼 Gaining hands-on exposure to **corporate development workflows and project lifecycles**
 - 🧠 Interested in **how systems work internally**
@@ -74,9 +73,15 @@ Excited about the journey ahead in tech.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://unstop.com/u/divya_shetti">
+<img src="https://img.shields.io/badge/Unstop-F36F21?style=for-the-badge"/>
+</a>
+
 <a href="https://divya-shetti.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+
 
 </p>
 
