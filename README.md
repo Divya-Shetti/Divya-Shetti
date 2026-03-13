@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   <br>
   <!-- <img src="https://img.shields.io/badge/HSQLDB-Database-blue?style=for-the-badge" /> -->
-  <img src="https://skillicons.dev/icons?i=git,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,bruno" />
   <!-- <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" /> -->
 </p>
